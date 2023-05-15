@@ -29,8 +29,8 @@ body {
     align-items: center;
     text-align: center;
 }
-/* DEFINIDO SISTEMA DE GRIDE EM 2 PARTES DE 50% */ 
 
+/* DEFINIDO SISTEMA DE GRIDE EM 2 PARTES DE 50% */ 
 .container {
     height: 100vh;
     display: grid;
