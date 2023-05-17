@@ -37,7 +37,7 @@ body {
     grid-template-columns: 50% 50%;
 }
 
-/*
+
 
 .container__botao {
     background-color: var(--botao-azul);
@@ -53,6 +53,7 @@ body {
     background-color: transparent;
     border: 2px solid var(--branco-principal)
 }
+
 
 .container__aviso {
     font-size: 12px;
@@ -72,4 +73,3 @@ body {
     margin: 0 6em;
 }
 
-*/
